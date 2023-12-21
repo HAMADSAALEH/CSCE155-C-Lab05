@@ -35,3 +35,7 @@ int min(int a,int b ,int c);
 // Prototype of function toGrayScaleLightness(); 
 
 float toGrayScaleLightness(int red, int green, int blue);
+
+// Prototype of function toGrayScaleLuminosity();
+
+float toGrayScaleLuminosity(int red,int green,int blue);
