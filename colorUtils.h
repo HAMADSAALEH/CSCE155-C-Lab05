@@ -41,3 +41,9 @@ float toGrayScaleLightness(int red, int green, int blue);
 float toGrayScaleLuminosity(int red,int green,int blue);
 
 // Prototype of toSepiaRed(); function 
+
+float toSepiaRed(int red,int green,int blue);
+
+// Prototype of toSepiaGreen(); function 
+
+float toSepiaGreen(int red,int green,int blue);
